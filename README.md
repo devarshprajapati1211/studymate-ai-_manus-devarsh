@@ -8,6 +8,7 @@
 ### Team Members
 - Member 1: DEVARSH PRAJAPATI
 - Member 2: MANUS PATEL
+-  MEMBER 3 : PARTH CHAVDA
 
 ### Hosted Project Link
 [[StudyMate - AI]
@@ -170,7 +171,8 @@ Pomodoro Timer
 
 ## Team Contributions
 MANUS PATEL: Frontend
-DEVARSH PRAJAPATI: Backend
+DEVARSH PRAJAPATI: Backend ,REPORT & ANLYSIS ,Frontend
+ PARTH CHAVDA : REPORT & ANLYSIS
 
 ---
 Made with ❤️ at TinkerHub
